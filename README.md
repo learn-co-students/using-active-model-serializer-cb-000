@@ -1,5 +1,5 @@
 # Using ActiveModel::Serializer
-
+# view Rails ActiveModel Serializer docs for easier implementation.
 ## Objectives
 
 1.  Explain what ActiveModel::Serializer does.
